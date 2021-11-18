@@ -86,11 +86,22 @@ h2{
     display: flex;
     justify-content: center;
 }
+.react-app{
+    text-align: center;
+}
 .react-app-order{
    display: flex;
    justify-content: center;
    text-align: center;
 
+}
+.react-img{
+    width: 80px;
+    height: 60px;
+}
+.mern-img{
+    width: 100px;
+    height: 60px;
 }
 @media screen and (max-width: 700px) {
     h2{
